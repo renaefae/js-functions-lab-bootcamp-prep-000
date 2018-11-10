@@ -21,6 +21,6 @@ function holidayCountdown (holiday, days){
 
 console.log("WTF");
 
-happyHolidays;
+happyHolidays; 
 happyHolidaysTo;
-holidayCountdown;
+holidayCountdown 
